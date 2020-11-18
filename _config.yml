@@ -19,14 +19,14 @@ author:
 hero:
   title: Elan Cooper
   description: Thoughts, stories and ideas.
-  image: '/images/01.jpg'
+  image: '/images/EJC.jpeg'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: elanjcoop@gmail.com # Add your email for contant form
-  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: elanjcoop@gmail.com # Add your email for contact form
+  description: Have a question for me? Want to get in touch about one of my projects? Contact me! # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -37,14 +37,15 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion ion-logo-vimeo", link: "https://vimeo.com/"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-github", link: "https://github.com/elanjcoop"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/elanjcoop/"}
+# - {icon: "ion ion-logo-vimeo", link: "https://vimeo.com/"}
 
 
 #-------------------------------

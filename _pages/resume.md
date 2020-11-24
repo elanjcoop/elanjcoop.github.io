@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Resume
-permalink: /assets/resume.pdf
+permalink: /assets/Elan_Cooper_Resume.pdf
 ---

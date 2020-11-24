@@ -19,7 +19,7 @@ Hi, my name is Elan Cooper. I am currently a junior studying computer science in
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-<p><iframe src="https://youtu.be/LUFwDQQUyC8" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/LUFwDQQUyC8" frameborder="0" allowfullscreen></iframe></p>
 *My Basketball Highlights*
 
 <hr>

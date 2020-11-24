@@ -10,13 +10,15 @@ Hi, my name is Elan Cooper. I am currently a junior studying computer science in
 ![Time to think]({{site.baseurl}}/images/Columbia_University.jpg)
 *My School / [NYT](https://www.nytimes.com/2020/03/08/nyregion/columbia-classes-canceled-coronavirus.html)*
 
+Now let's look at some of my most prized projects. First up is my video game mod modeled after the real courts, jerseys, and players in my high school's Cooper Invitational Tournament (bonus shot of me in the middle).
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/900.jpg">
-    <img src="/images/901.jpg">
-    <img src="/images/902.jpg">
+    <img src="/images/court_in_2k.png">
+    <img src="/images/me_in_2k.png">
+    <img src="/images/yu_in_2k.png">
   </div>
-  <em>Gallery</em>
+  <em>CIX 2K</em>
 </div>
 
 <div class="video">

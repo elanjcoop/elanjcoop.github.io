@@ -50,7 +50,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

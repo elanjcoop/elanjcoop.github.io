@@ -20,12 +20,10 @@ Hi, my name is Elan Cooper. I am currently a junior studying computer science in
 </div>
 
 <div class="video">
-  <p>
     <iframe src="https://www.youtube.com/embed/LUFwDQQUyC8" frameborder="0" allowfullscreen></iframe>
     <em>
       My Basketball Highlights
     </em>
-  </p>
 </div>
 
 

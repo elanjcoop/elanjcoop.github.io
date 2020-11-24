@@ -218,7 +218,7 @@ table tr:hover {
   color: $white;
 }
 
-.gallery-box {
+.gallery-box, .video {
   margin-bottom: 30px;
   em {
     display: inline-block;
@@ -249,28 +249,6 @@ table tr:hover {
   img {
     width: 100%;
     height: auto;
-  }
-}
-
-.video {
-  margin-bottom: 30px;
-  em {
-    display: inline-block;
-    width: 100%;
-    padding: 20px 0 0;
-    font-size: 12px;
-    font-style: normal;
-    line-height: 1;
-    text-align: center;
-    color: $text-color;
-    a {
-      border-bottom: 2px solid rgba($text-color, .1);
-      &:hover {
-        border-color: $brand-color;
-        color: $text-color;
-        text-decoration: none;
-      }
-    }
   }
 }
 

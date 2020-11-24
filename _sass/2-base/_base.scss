@@ -252,6 +252,28 @@ table tr:hover {
   }
 }
 
+.video {
+  margin-bottom: 30px;
+  em {
+    display: inline-block;
+    width: 100%;
+    padding: 20px 0 0;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 1;
+    text-align: center;
+    color: $text-color;
+    a {
+      border-bottom: 2px solid rgba($text-color, .1);
+      &:hover {
+        border-color: $brand-color;
+        color: $text-color;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
 .lazy {
   opacity: 0;
   transition: 0.4s ease;

@@ -21,10 +21,15 @@ Now let's look at some of my most prized projects. First up is my video game mod
   <em>CIX 2K</em>
 </div>
 
+But my basketball abilities were not simply virtual. I was a rising star on my high school basketball varsity team before suffering a bench-related injury. Need proof?
+
+![Ball Stats]({{site.baseurl}}/images/elan_max_preps.png)
+*Basketball Stats / [Max Preps](https://www.maxpreps.com/athlete/elan-cooper/HrftvIovEeW-8KA2nzwbTA/basketball/stats.htm)*
+
 <div class="video">
     <iframe src="https://www.youtube.com/embed/LUFwDQQUyC8" frameborder="0" allowfullscreen></iframe>
     <em>
-      My Basketball Highlights
+      Basketball Highlights
     </em>
 </div>
 

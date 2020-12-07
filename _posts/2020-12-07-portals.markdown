@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Avengers&#58; Endgame - "Portals" Track Analysis
+title:  Avengers Endgame - "Portals" Track Analysis
 description:  Avengers Endgame - "Portals" Track Analysis
 date:   2020-12-07 02:00:00 +03:00
 image:  '/images/portals.jpg'

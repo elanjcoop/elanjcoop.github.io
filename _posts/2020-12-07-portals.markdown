@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Avengers Endgame - "Portals" Track Analysis
+title:  Avengers Endgame - Portals Track Analysis
 description:  Analyzing the track "Portals" from the Endgame soundtrack.
 date:   2020-12-07 12:00:00 +00:00
 image:  '/images/portals.jpg'

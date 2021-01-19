@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Analyzing Music in the MCU
-description:  Analyzing the track "Portals" from the Endgame soundtrack.
+description:  Analyzing the track Portals from the Endgame soundtrack.
 date:   2020-12-07 12:00:00 +00:00
 image:  '/images/portals.jpg'
 tags:  []

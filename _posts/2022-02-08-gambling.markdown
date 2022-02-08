@@ -3,7 +3,7 @@ layout: post
 title:  Ranking Gambling Websites in New Jersey & New York
 description:  Simple rankings to guide where to bet and what bet's best.
 date:   2022-02-08 12:00:00 +00:00
-image:  '/images/portals.jpg'
+image:  '/images/gambling.png'
 ---
 ## Rankings
 1. FanDuel

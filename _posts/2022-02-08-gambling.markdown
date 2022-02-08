@@ -7,17 +7,62 @@ image:  '/images/gambling.png'
 ---
 ## Rankings
 1. FanDuel
-* Gambling Options
-* Promotions
-* UX*
-* Customer Support
-* Withdrawal
+* Gambling Options - A+
+* Promotions - B
+* UX - A
+* Customer Support - A
+* Withdrawal - B
 2. DraftKings
+* Gambling Options - A
+* Promotions - A
+* UX - A+
+* Customer Support - A
+* Withdrawal - B
 3. WynnBet
-4. Tipico
-5. FOX Bet
+* Gambling Options - ?
+* Promotions - B
+* UX - B
+* Customer Support - B
+* Withdrawal - C
+4. FOX Bet
+* Gambling Options - ?
+* Promotions - C
+* UX - A
+* Customer Support - B
+* Withdrawal - A+
+5. Tipico
+* Gambling Options - ?
+* Promotions - B
+* UX - B
+* Customer Support - A
+* Withdrawal - A
 6. theScore
+* Gambling Options - ?
+* Promotions - F
+* UX - A
+* Customer Support - C
+* Withdrawal - D
 7. Caesars
+* Gambling Options - B
+* Promotions - A++
+* UX - B
+* Customer Support - F
+* Withdrawal - F
 8. Bet365
+* Gambling Options - B
+* Promotions - B
+* UX - B
+* Customer Support - F
+* Withdrawal - C
 9. BetRivers
+* Gambling Options - D
+* Promotions - B
+* UX - B
+* Customer Support - F
+* Withdrawal - A
 10. Twinspires
+* Gambling Options - D
+* Promotions - C
+* UX - D
+* Customer Support - D
+* Withdrawal - N/A

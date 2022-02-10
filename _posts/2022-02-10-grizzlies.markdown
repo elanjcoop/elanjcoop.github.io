@@ -2,7 +2,7 @@
 layout: post
 title:  A Review of All Memphis & Vancouver Grizzlies Jerseys
 description: Deep dive into every uniform worn by the team in its 27 year history.
-date:   2022-02-10 12:00:00 +00:00
+date:   2022-02-09 12:00:00 +00:00
 image:  '/images/grizzlies.webp'
 ---
 The Grizz have donned 21 distinct styles of kits in their history from Vancouver to Memphis, and feature some of the greatest designs to ever be seen on a basketball court. I rank below what I believe to be their best to worst uniforms, whether it be their core jersey editions, their Martin Luther King Pride ensembles, or ABA throwbacks.

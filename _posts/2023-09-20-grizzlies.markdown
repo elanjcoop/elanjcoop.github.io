@@ -5,36 +5,24 @@ description: Deep dive into every uniform worn by the team in its 28 year histor
 date:   2023-09-20 12:00:00 +00:00
 image:  '/images/grizzlies.webp'
 ---
-The Grizz have donned xxx distinct styles of kits in their history from Vancouver to Memphis, and feature some of the greatest designs to ever be seen on a basketball court. I rank below what I believe to be their best to worst uniforms, whether it be their core jersey editions, their Martin Luther King honorary ensembles, or ABA throwbacks.
+The Grizz have donned 18 distinct styles of kits in their history from Vancouver to Memphis, and feature some of the greatest designs to ever be seen on a basketball court. I rank below what I believe to be their best to worst uniforms, whether it be their core jersey editions, their Martin Luther King honorary ensembles, or ABA throwbacks.
+
 ## #18 Pros ABA Throwback (2005-2006)
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/JonesGovanJones.jpg">
-    <img src="/images/StoudamireJones.png">
-    <img src="/images/GasolBattier.webp">
-  </div>
-  <em>Sources: Joe Singer, Joe Murphy, Joe Murphy</em>
-</div>
+![Pros]({{site.baseurl}}/images/StoudamireJones.png)
+*Source: Joe Murphy*
 
 ## #17 Association & Icon Edition (2018-Present)
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Morant.png">
-    <img src="/images/GrizzliesIconAssociation.avif">
     <img src="/images/JacksonJr.png">
   </div>
-  <em>Sources: Screenshot from NBA 2K23, Memphis Grizzlies/NBA.com, Screenshot from NBA 2K23</em>
+  <em>Source: Screenshots from NBA 2K23</em>
 </div>
 
 ## #16 Statement Edition (2022-Present)
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/JittyUnveil.png">
-    <img src="/images/Bane.png">
-    <img src="/images/BrooksJacksonJr.webp">
-  </div>
-  <em>Sources: Memphis Grizzlies/YouTube, Screenshot from NBA 2K23, Joe Murphy</em>
-</div>
+![Statement]({{site.baseurl}}/images/Bane.png)
+*Source: Screenshot from NBA 2K23*
 
 ## #15 Memphis Home & Away (2004-2018)
 

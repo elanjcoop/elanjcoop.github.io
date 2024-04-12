@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  A Review of All Memphis & Vancouver Grizzlies Jerseys
-description: Deep dive into every uniform worn by the team in its 28 year history.
-date:   2023-09-20 12:00:00 +00:00
+description: Deep dive into every uniform worn by the team in its 29 year history.
+date:   2024-04-12 12:00:00 +00:00
 image:  '/images/grizzlies.webp'
 ---
-The Grizz have donned 18 distinct styles of kits in their history from Vancouver to Memphis, and feature some of the greatest designs to ever be seen on a basketball court. I rank below what I believe to be their best to worst uniforms, whether it be their core jersey editions, their Martin Luther King honorary ensembles, or ABA throwbacks.
+The Grizz have donned 19 distinct styles of kits in their history from Vancouver to Memphis, and feature some of the greatest designs to ever be seen on a basketball court. I rank below what I believe to be their best to worst uniforms, whether it be their core jersey editions, their Martin Luther King honorary ensembles, or ABA throwbacks.
 
-## #18 Pros ABA Throwback (2005-2006)
+## #19 Pros ABA Throwback (2005-2006)
 ![Pros]({{site.baseurl}}/images/StoudamireJones.png)
 *Source: Joe Murphy*
 
-## #17 Association & Icon Edition (2018-Present)
+## #18 Association & Icon Edition (2018-Present)
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Morant.png">
@@ -20,9 +20,14 @@ The Grizz have donned 18 distinct styles of kits in their history from Vancouver
   <em>Source: Screenshots from NBA 2K23</em>
 </div>
 
-## #16 Statement Edition (2022-Present)
+## #17 Statement Edition (2022-Present)
 ![Statement]({{site.baseurl}}/images/Bane.png)
 *Source: Screenshot from NBA 2K23*
+
+
+## #16 City Edition "Hometown Feels" (2023-2024)
+![Hometown]({{site.baseurl}}/images/Smart.png)
+*Source: Screenshots from NBA 2K24*
 
 ## #15 Memphis Home & Away (2004-2018)
 <div class="gallery-box">
@@ -67,17 +72,17 @@ The Grizz have donned 18 distinct styles of kits in their history from Vancouver
 ![MLK50]({{site.baseurl}}/images/Allen.png)
 *Source: Screenshots from NBA 2K14 / Custom Replica by JR15*
 
-## #8 Memphis Alternate (2009-2018)
-![MLK50]({{site.baseurl}}/images/Mayo.png)
-*Source: Screenshots from NBA 2K23*
+## #8 Statement Edition (2018-2022)
+![StatementOriginal]({{site.baseurl}}/images/Adams.png)
+*Source: Screenshots from NBA 2K22*
 
 ## #7 Europe Live Tour (October 11, 2007)
 ![Europe]({{site.baseurl}}/images/Gay.png)
 *Source: Screenshots from NBA 2K14 / Custom Replica by Pep*
 
-## #6 Statement Edition (2018-2022)
-![StatementOriginal]({{site.baseurl}}/images/Adams.png)
-*Source: Screenshots from NBA 2K22*
+## #6 Memphis Alternate (2009-2018)
+![MLK50]({{site.baseurl}}/images/Mayo.png)
+*Source: Screenshots from NBA 2K23*
 
 ## #5 Vancouver Home & Away (1995-2000)
 <div class="gallery-box">

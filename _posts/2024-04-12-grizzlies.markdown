@@ -24,7 +24,6 @@ The Grizz have donned 19 distinct styles of kits in their history from Vancouver
 ![Statement]({{site.baseurl}}/images/Bane.png)
 *Source: Screenshot from NBA 2K23*
 
-
 ## #16 City Edition "Hometown Feels" (2023-2024)
 ![Hometown]({{site.baseurl}}/images/Smart.png)
 *Source: Screenshots from NBA 2K24*

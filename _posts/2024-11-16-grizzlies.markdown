@@ -16,7 +16,7 @@ I think it's worth noting that I have extreme bias towards the entire history of
 What a fitting story for the kit that makes the bottom of the list. It's completely inoffensive, with a navy-and-red color scheme that runs in stark contrast to the typical blues of the bears. The Pros typeface – as sacred as it is – looks like a WordArt selection I drew in computer class on Windows XP back in second grade. I do like the triple piping on the sides of the jersey top, and the vertical “Pros ” playful wordmark lining the side of the shorts. It’s a humble and fitting uniform choice that pays homage to the modest beginnings of a franchise that could not get a weekend game in Memphis Tigers' territory, and with that typical Memphis grit, the original Pros burst onto the scene and took home a respectable 41-43 record their first year in the American Basketball Association, and these modest, gritty jerseys represent just that.
 
 <div class="video">
-    <iframe src="https://youtu.be/5igoQl1srzM" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/5igoQl1srzM" frameborder="0" allowfullscreen></iframe>
     <em>
       Mike Miller Goes for 41
     </em>
@@ -36,14 +36,14 @@ And now we time travel all the way to the modern era. On August 2, 2018, with on
 Fun Fact: The reason that the light-dark uniform system was in place for home and away games existed until then was based on the early NBA teams' lack of access to laundering services while on the road, so dark, away jerseys could hide stains before teams got home to clean them.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=Id1jJfCYtwQ" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Id1jJfCYtwQ" frameborder="0" allowfullscreen></iframe>
     <em>
       Play-In Win Over Warriors
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=mmzkFIPx1Ug&ab_channel=BleacherReport" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/mmzkFIPx1Ug" frameborder="0" allowfullscreen></iframe>
     <em>
       Ja Dunks Over Poeltl Again
     </em>
@@ -56,7 +56,7 @@ Fun Fact: The reason that the light-dark uniform system was in place for home an
 The Griz chose to light refresh their Statement iteration with this kit in 2022. The update was announced cutely with a video where Chief Grind City Media Contributor Lang Whitaker has to tell Jaren that Jitty got the nod as official model of the new jersey over him. And much like going from Jaren to Jitty (who notably had a very forgettable 2022-23 season), this jersey change was a downgrade. We’ll get to the original Statement Edition lower in this list, but the key change was adding in the asymmetry design system along with the shipping container alternate logo in between yellow lines on the side and belt buckle, which first appeared on the ‘21 City Edition “Soul” side panels. But beyond that inoffensive change, I really dislike the unnecessary and barely legible, slightly arched Memphis wordmark sitting atop the Grizzlies design that resembles the Knicks skyscraper logotype. The old Grizzlies arched lettering was boring, but I felt like it was a natural evolution from the pre-rebrand GNG-era BSB uniforms. They certainly have a bit more going on than the pre-2022 Statement Editions, but I think it made sense to have a jersey without the asymmetrical side-lining that showed off the best color in sports.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=j8Aovro-FEY" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/j8Aovro-FEY" frameborder="0" allowfullscreen></iframe>
     <em>
       Marcus Smart Flick Pass
     </em>
@@ -69,7 +69,7 @@ The Griz chose to light refresh their Statement iteration with this kit in 2022.
 Sometimes, you just gotta play it safe. Get rid of that barking Mississaugan, your expensive backup point guard, but keep hanging onto that injury-prone screen setter for just a little longer. And for your seasonal City design, throw an all-black jersey together with a dash of gold, guaranteeing yourself the best minimalist outfit in an already oversaturated group. While I can appreciate the cleanliness and consistency in these midnight getups, they just don’t fall in line with the brilliance I can usually expect from the hometown design team. Another major penalty here is the fact that these jerseys were worn in the midst of an entirely forgettable campaign; contrast these to the “GRZNXTGEN” City Editions legacy of twice yesteryear – a jersey in which Ja’s third-quarter immortal playoff dunk over Malik Beasley was worn – 12 wore these just once, in a loss to the Raptors. I do, however, love the jersey’s theme of playground parks, and the accompanying blacktop-style court that makes it look as though the Griz are partaking in the city’s love of concrete basketball. In a way, these jerseys were inevitable; I feel as though the Grizzlies’ airport-code “MEM” neon-like logo did not deserve its own design, but it’s no surprise they pulled the trigger on making this jersey happen in a second-straight non-anniversary year (which occurs every 5 years, once for the franchise forming in 1995 and another for the move to Memphis in 2001; do the math, or, preferably, just trust me). Pulling the gold numbering from the past City Editions (‘21’s “Soul” and ‘23’s “Big Memphis”) is a nice touch, but also pretty unremarkable. Keeping the split-line lettering and side panel trim consistent is also a wise way to maintain minimalism, and mediocrity. The gold bear on the shorts is the perfect encapsulation of this uniform: a nice accent of the Griz’ typical visual nomenclature, but rather undeserving of its own time in the sun.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=zCBbdC_pg2I" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/zCBbdC_pg2I" frameborder="0" allowfullscreen></iframe>
     <em>
       Desmond Bane Step Back 3 vs Jazz
     </em>
@@ -89,28 +89,28 @@ Although the Griz were probably sad to move out of the seventh largest pyramid i
 Fun Fact: These jerseys were updated in 2010 to remove the BSB lining within and increase the size of the numbers, and with the Nike takeover in 2017, the gold collar containing the logo was removed, with both changes happening to the home whites and away navies. The bear logo also moved under Nike’s rule in 2017, shifting to a smaller version centered on the waist.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=X0Cf-xTm1uA" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/X0Cf-xTm1uA" frameborder="0" allowfullscreen></iframe>
     <em>
       Game 4 vs OKC 2011
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=ya3F4chqqWo" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/ya3F4chqqWo" frameborder="0" allowfullscreen></iframe>
     <em>
       Bonus: Big Spain Twilight GW vs Spurs
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=mJD2UXu2rOg" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/mJD2UXu2rOg" frameborder="0" allowfullscreen></iframe>
     <em>
       Shane Battier Rattles it in
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=nLNgyVVio2s" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/nLNgyVVio2s" frameborder="0" allowfullscreen></iframe>
     <em>
       Bonus: Z-Bo Punches Blake
     </em>
@@ -126,7 +126,7 @@ Fun Fact: I use an example picture of JaMychal because I saw him on a date once 
 (...Get it? We have fun here.)
 
 <div class="video">
-    <iframe src="https://youtu.be/Fk73CYfb89Q?t=40" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Fk73CYfb89Q?start=40" frameborder="0" allowfullscreen></iframe>
     <em>
       Trip + Kyle Back and Forth
     </em>
@@ -143,7 +143,7 @@ But back to history class: the Pros struggle mightily in Memphis, but not withou
 The design is pretty straightforward, with the most unique aspect being the mismatched shorts and tops. Bonus points are awarded for the ABA logo sitting above the player names on the back. Though I am a fan, some might side with Commercial Appeal writer-in John Allen who had this to say after a bad loss to the Jazz on national TV: “Burn the hideous Tams uniforms.”
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=Br1L7v5gU0Q&ab_channel=NBA" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Br1L7v5gU0Q" frameborder="0" allowfullscreen></iframe>
     <em>
       Rudy Sends Game to OT With 3
     </em>
@@ -163,14 +163,14 @@ I’ll leave the in-depth review of these getups to the slightly better Vancouve
 Fun Fact: The Griz simplified the waistline and shorts in 2002 by removing the pattern and replacing the G-bear logo with the bear claw emblem. I prefer the originals.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=rYdIQIgjf3g" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/rYdIQIgjf3g" frameborder="0" allowfullscreen></iframe>
     <em>
       Pau Dunk Over KG
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=1inPme1Mhok&t=51s&ab_channel=andreagostini" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/1inPme1Mhok?start=51" frameborder="0" allowfullscreen></iframe>
     <em>
       First Playoff Game in Franchise History
     </em>
@@ -184,7 +184,7 @@ The Griz tapped into their melodic bag for the City Edition in 2020 with inspira
 While I must admire the artistic accomplishment that is this uniform, I admit that this uniform leaves something to be desired. The design is masterfully crafted and does a wonderful job at celebrating a milestone character in the city’s history, and the uniform’s “MG” pattern is among the best neck and side designs in franchise history. But I feel that the dominating black grooves play pretty weakly, and the gold wordmark and jersey number, though pretty, do not stand out. Perhaps if the dominance of the cloth and groove designs were to invert, with the uniform instead showcasing the turquoise and gold Kente cloth pattern much more prominently, this getup could really pop. But that’s left as an exercise to the team designers for a future jersey. After all, Isaac Hayes also played a major role in purchasing the Memphis’ Tams off struggling businessman Charles Finley (stay tuned for the third chapter of that story), so a follow-up City Edition extending the celebration of our city’s music scene should certainly be an option on the table.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=9E2VwvyloCU&ab_channel=HouseofHighlights" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/9E2VwvyloCU" frameborder="0" allowfullscreen></iframe>
     <em>
       A Grizzlies Full Crowd Post-COVID: Play-In Win
     </em>
@@ -204,14 +204,14 @@ Black, red, and turquoise. The colors you would expect to find in those new 3D g
 Fun Fact: The minimalist claw on the belt was colored Grizzlies bronze instead of white when the away jersey was still an alternate from 1997-2000. I just barely prefer the white.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=CaaobaVkHTE" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/CaaobaVkHTE" frameborder="0" allowfullscreen></iframe>
     <em>
       Last game at home vs Steve Francis
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=CWse71pskxc" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/CWse71pskxc" frameborder="0" allowfullscreen></iframe>
     <em>
       Stro Dunk Contest
     </em>
@@ -225,7 +225,7 @@ Our Grizzlies chose to honor Martin Luther King Jr. on the 50th Anniversary of h
 It’s fitting that the last jersey of the Adidas era is a sleeved one, as players were vocal in voicing their distaste for the fashion choice. This jersey makes no offensive decisions, and is tasteful with its commemorative respects. I do find the choice to honor MLK with basketball workwear that highlights the spot of his assassination a bit discordant, though its connections to the city are undeniable. Though it is appropriate that this jersey comes right before the next season’s first City Edition “I Am a Man” one, paying respects to a revered individual in our town’s history before coming out strong with a celebration of the Memphis Sanitation Workers’ Strike. The jersey’s discerning design was well-suited for the Grizzlies aging GnG era, and has enough artistic integrity and ease on the eyes to earn it this spot on the list.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=26FGXF4CTAI&ab_channel=NBA" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/26FGXF4CTAI" frameborder="0" allowfullscreen></iframe>
     <em>
       A Vince Carter Double Block
     </em>
@@ -239,7 +239,7 @@ The Griz’ first alternate in the Nike rebrand era simplifies their previous ba
 All in all, these guys are clean and effective. There’s a slight regression in brand identity compared to the previous alternates (it’s on this list soon, I promise), but it still represents the Griz well. It’s simple, straightforward, and stylish, but the Grizzlies rebrand, much like for the core editions, weakens the delivery in favor of minimalism. Though branded the Statement Edition, the design feels more like a weakly spoken Comment.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=pu8Z6RS4lxY&t=62s" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/pu8Z6RS4lxY?start=62" frameborder="0" allowfullscreen></iframe>
     <em>
       73 Point Win Over Thunder
     </em>
@@ -252,7 +252,7 @@ All in all, these guys are clean and effective. There’s a slight regression in
 The EA Sports Europe Live Tour in October of 2007 featured some real unique themes never before experimented with on NBA jerseys. Although I had seen this jersey before, I never understood the meaning of its extracurricular design. It took me finding a bootleg copy of the Grizzlies vs. Spain’s ACB-participating Estudiantes in Madrid to put it together: the kit’s side incorporated the tricolored Spanish flag, with red on either side of the interior yellow. The core of the jersey is just the typical, three-year-old away uniform with the Memphis wordmark arched. The Grizzlies Euro design is the safest bet among the nine jerseys used in the Europe Live Tours spanning 2006 and 2007: more creative designs include Boston using Italy’s colors within their wordmark on the chest, and the Clippers using Russia’s flag in a checkmarked pattern on either side. To ensure my knowledge of that two-hour game did not go to waste, I should let you know that the Griz overpowered Estudiantes easily despite weak performances from Mike Miller and Rudy Gay, mostly because they felt embarrassed by their loss two nights prior to Unicaja Málaga (a game in which they wore their typical home whites). Also notable about this game was newcomer-slash-Spanish native-slash-Pau’s friend Juan Carlos Navarro getting a major standing ovation from the Spanish crowd. This jersey is nowhere near groundbreaking, but its high rarity score and celebration of the most important nationality in Griz history nets it here on the list.
 
 <div class="video">
-    <iframe src="https://youtu.be/gYChi6kMWnc?t=7073" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/gYChi6kMWnc?start=7073" frameborder="0" allowfullscreen></iframe>
     <em>
       Pau and Juan Carlos Navarro are honored post-game
     </em>
@@ -269,7 +269,7 @@ The creative team went off and all out with this getup, choosing to rely on thei
 I appreciate that these jerseys chose to play it bold, especially compared to the following year’s all-black City iteration. I love that this jersey makes aggressive design decisions while keeping up with the franchise patterns, and the BSB-chrome combo is unexpected but meshes nicely. Bonus points are awarded for no corporate logos to mess up the color scheme, since this was an in-between sponsor year.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=81hcy5_gpPU" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/81hcy5_gpPU" frameborder="0" allowfullscreen></iframe>
     <em>
       Trip Putback Over AD
     </em>
@@ -295,7 +295,7 @@ Following up with the 2024-2025 City Edition, the Grizzlies added some modern pe
 FF: I mention LaRavia here because Ray McCallum didn’t join the injury-ridden ’16 until after the promotional jerseys ran, which would have been a pleasure to see. Also of note is that the Milwaukee Brewers Triple-A affiliate, the Nashville Sounds, continue to use some of the brand identity of the Memphis team until this day.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=SgSgwSHehfE&ab_channel=NBA" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/SgSgwSHehfE" frameborder="0" allowfullscreen></iframe>
     <em>
       Barnes Half Court Game Winner
     </em>
@@ -315,14 +315,14 @@ The jersey you’ve been waiting to see on this list – and probably think shou
 These getups are a relic of 1990s jersey design, but boy are they wonderful. Though they were met with some criticism in the 90s and early 2000s, they have become one of the most appreciated jerseys in NBA history, so much so that young arrival Ja Morant campaigned in his rookie campaign to bring them back for classic nights; luckily, the Griz obliged. Though I love both of these jerseys, I find the logo on the home’s to mesh poorly with the white of the uniform base, and the oversized logo just feels like it's out of nowhere when it's tacked on with no solid background color. But I am glad that these are back this ‘24-’25 season with the throwback court on the ground below it. And speaking of the current throwback iterations, I actually really like the turquoise Nike logo on the right shoulder. These jerseys have been a favorite of mine since childhood, and I’m glad the national jersey fanbase switched up and catapulted this uniform to the top of the fandom list.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=TiQAI0VMQro" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/TiQAI0VMQro" frameborder="0" allowfullscreen></iframe>
     <em>
       Franchise Home Opener
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=KYA0Mp9bUZM" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/KYA0Mp9bUZM" frameborder="0" allowfullscreen></iframe>
     <em>
       A Big Big Country Game
     </em>
@@ -337,7 +337,7 @@ Sometimes, simplicity is everything. The Grizzlies’ second MLK Day jersey, and
 This jersey is simple, timeless, and the perfect encapsulation of a moment in time, which is why it ranks so high up on my list. There may not be an elegant side panel, a big bronze bear claw or an elaborate hodge-podge of colors, but it’s a unique uniform that speaks volumes in every stitch.
 
 <div class="video">
-    <iframe src="https://youtu.be/w59R7kh15dE?t=325" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/w59R7kh15dE?start=325" frameborder="0" allowfullscreen></iframe>
     <em>
       Dillon Brooks Hits 3 to Take Late Lead
     </em>
@@ -352,14 +352,14 @@ For the NBA’s 75th Anniversary, the second-youngest franchise in the league de
 This jersey has it all. A beautiful first color choice in MMB, striking GG trims, a perfect use of BSB in the alternate logos, clever use of bear-related traits, understated asymmetry callbacks (with a design format that’s basically the same as the original Vancouver kits), good league-wide jersey timing, extra time playoff encores beyond the originally scheduled 14 games (with some unbelievable, game-changing highlights associated with it). It’s a masterclass in jersey design, and there’s a reason it’s the consensus uniform pick for fans on the platform currently known as Twitter [sic]. I think it would be wise to use two alternatives of this jersey as the Icon and Association Editions in the next era of jerseys.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=pfT5RZdzvkc" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/pfT5RZdzvkc" frameborder="0" allowfullscreen></iframe>
     <em>
       Ja Morant Momentum-Changing Dunk Over Malik Beasley
     </em>
 </div>
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=9vtHzryQB8c" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/9vtHzryQB8c" frameborder="0" allowfullscreen></iframe>
     <em>
       Bonus: Steve-o Full Court Pass to Ja
     </em>
@@ -376,7 +376,7 @@ To me, these jerseys symbolize the ultimate brand transformation of our beloved 
 Fun Fact: Rudy Gay and OJ Mayo were credited with playing a role in the design process, which is pretty dandy. Additionally, these jerseys underwent two transformations: removing the shimmer and smoke blue number-inlay (still present in the wordmark) after 2010, and the switching of the gold collar to blue (like the city’s people), addition of a gold belt buckle with the primary logo, removal of the bear claw logos on the shorts, and downgrading of the side’s dual triple-pointed stars in favor of a simpler blue-gold-blue pattern in the Nike takeover of 2017.
 
 <div class="video">
-    <iframe src="https://www.youtube.com/watch?v=WK7lIjFsGvg&ab_channel=IhabBanayoti" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/WK7lIjFsGvg" frameborder="0" allowfullscreen></iframe>
     <em>
       Gay Game Winner in Toronto
     </em>

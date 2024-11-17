@@ -92,7 +92,7 @@ The Grizz have donned 19 distinct styles of kits in their history from Vancouver
 ![ForTheM]({{site.baseurl}}/images/Clarke.png)
 *Sources: Screenshots from NBA 2K23*
 
-## #4 and #5 - Sounds ABA Throwback (2015-2016) and City Edition “Sounds’ 50th Anniversary” (2024-2025)
+## #4 and #5 - Sounds ABA Throwback (2015-2016) and City Edition "Sounds" 50th Anniversary" (2024-2025)
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/CarterGreen.png">

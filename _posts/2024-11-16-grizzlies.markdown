@@ -5,7 +5,7 @@ description: Deep dive into every uniform worn by the team in its 30 year histor
 date:   2024-11-16 12:00:00 +00:00
 image:  '/images/grizzlies.webp'
 ---
-The Beale Street Hoopers have donned a number of distinct styles of threads in their almost thirty-year history from Vancouver, British Columbia, to Memphis, Tennessee, featuring some of the greatest on-court kits to ever be seen on the hardwood. I discuss below the history of their getups and what I believe to be their best to worst uniforms, whether it be their core jerseys, ABA throwbacks, or city-celebrating ensembles.
+The Beale Street Hoopers have donned a number of distinct styles of threads in their almost thirty-year history. From Vancouver, British Columbia, to Memphis, Tennessee, the Griz have featured some of the greatest on-court kits to ever be seen on the hardwood. I discuss below the history of their getups and what I believe to be their best to worst uniforms, whether it be their core jerseys, ABA throwbacks, or city-celebrating ensembles.
 
 ## #20 Pros ABA Throwback (2005-2006)
 ![Pros]({{site.baseurl}}/images/StoudamireJones.png)
